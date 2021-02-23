@@ -6,6 +6,6 @@ Don't want to attend class? This Python bot built using Selenium logs into your 
 
 
 > 1. Git clone the repository or download the project files 
-> 2. Make sure to run *pip i selenium and *pip i pyautogui
-> 3. Inside the ** passwords.py ** file change the variable names accordingly
+> 2. Make sure to run **pip i selenium** and **pip i pyautogui**
+> 3. Inside the **passwords.py** file change the variable names accordingly
 > 4. Have fun testing it out!
